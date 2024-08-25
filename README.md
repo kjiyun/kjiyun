@@ -2,7 +2,7 @@
 
 - Backend Engineer
 - jiyunkang5952@gmail.com
-
+<!--
 ### Main Tools
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/kjiyun/kjiyun/main/icons/java.png" alt="java" height="50px"/>
@@ -17,7 +17,7 @@
   <img align="left" src="https://raw.githubusercontent.com/kjiyun/kjiyun/main/icons/linux.png" alt="linux" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/kjiyun/kjiyun/main/icons/nginx.png" alt="nginx" height="50px"/>
 </div>
-
+-->
 ### Statistics
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=kjiyun&show_icons=true&theme=holi" width = "49%" height="130%" />
