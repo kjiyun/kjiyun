@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Jiyun%20Kang&fontSize=60)
 
   ### 🎒 Experience
-  - Koc University, Turkey Exchange Student
+  - Koc University, Türkiye Exchange Student
     <br></br>
     > 2023-2 Fall semester
   - APL, Undergraduate Research Intern
