@@ -1,14 +1,17 @@
-
+<!--
   <!-- Header -->
   ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Jiyun%20Kang&fontSize=60)
-
+-->
   ### 🎒 Experience
   - Koc University, Türkiye Exchange Student
     <br></br>
     > 2023-2 Fall semester
   - APL, Undergraduate Research Intern
     <br></br>
-    > 2024.06 ~ Now
+    > 2024.06 ~ 2025.08
+  - 여기어때 DevOps Engineer
+    <br></br>
+    > 2025.09 ~ 2026.02
   
 <br></br>
   ### 🌱 Activity
