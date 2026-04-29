@@ -29,10 +29,8 @@
     > Sustainable Act Space Map
   - 밴드부 예매, 지원, 동아리 방 예약 사이트, **KahluaProject** BE
     <br></br>
-    > 📎 [KahluaBand Website](https://www.kahluaband.com/)
   - 세상의 모든 밈코인을 한곳에서 모아보는 종합 서비스, **MemeSphere** BE
     <br></br>
-    > 📎 [MemeSphere Website](https://www.memesphere.site/)
   - Drools 룰 엔진을 활용한 데이터 필터링 프레임워크
 
   <!--
