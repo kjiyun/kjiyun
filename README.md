@@ -1,7 +1,7 @@
-<!--
-  <!-- Header -->
+  <!-- Header
   ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Jiyun%20Kang&fontSize=60)
 -->
+
   ### 🎒 Experience
   - Koc University, Türkiye Exchange Student
     <br></br>
